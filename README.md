@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="horloge.png" alt="Logo" width="180" height="150">
+    <img src="horloge.png" alt="Logo" width="170" height="150">
 </div>
 
 # Horloge Analogique
